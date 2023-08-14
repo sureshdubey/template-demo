@@ -1,0 +1,1 @@
+Demo: Delete branch manually

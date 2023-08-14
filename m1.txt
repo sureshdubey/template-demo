@@ -1,0 +1,1 @@
+Demo: Delete branch automatically after pull request is merged
